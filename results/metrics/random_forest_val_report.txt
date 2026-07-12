@@ -1,0 +1,18 @@
+F1-macro: 1.0000
+
+              precision    recall  f1-score   support
+
+          ar       1.00      1.00      1.00        12
+  background       1.00      1.00      1.00         6
+       bebop       1.00      1.00      1.00        13
+     phantom       1.00      1.00      1.00         3
+
+    accuracy                           1.00        34
+   macro avg       1.00      1.00      1.00        34
+weighted avg       1.00      1.00      1.00        34
+
+Confusion matrix (orden alfabético de clases):
+[[12  0  0  0]
+ [ 0  6  0  0]
+ [ 0  0 13  0]
+ [ 0  0  0  3]]

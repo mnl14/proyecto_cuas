@@ -1,11 +1,9 @@
 data/raw/
 data/processed/
-*.csv
-*.pkl
-*.h5
 __pycache__/
 *.pyc
 .venv/
 venv/
 .ipynb_checkpoints/
 results/logs/
+results/models/

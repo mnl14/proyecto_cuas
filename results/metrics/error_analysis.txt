@@ -1,0 +1,31 @@
+Total mal clasificados: 2 de 35
+
+BUI=10100 segmento=5 | real=ar (on_connected) -> predicho=bebop (confianza=0.98)
+  Feature       | valor caso | media_real | media_pred
+  mean          | -0.006746 | -0.007099 | -0.008218
+  std           | 347.9 | 105.6 | 494.9
+  var           | 1.21e+05 | 1.467e+04 | 2.728e+05
+  skewness      | -0.003761 | -0.0004121 | 0.0003541
+  kurtosis      | 146.3 | 197.5 | 69.33
+  rms           | 347.9 | 105.6 | 494.9
+  peak_to_peak  | 1.668e+04 | 7517 | 2.038e+04
+  mean_abs      | 68.49 | 19.86 | 91.21
+  max_abs       | 8689 | 3833 | 1.041e+04
+  energy        | 2.42e+12 | 2.933e+11 | 5.455e+12
+  spectral_centroid| 5.573e+06 | 5.526e+06 | 5.51e+06
+  spectral_energy| 2.42e+19 | 2.933e+18 | 5.455e+19
+
+BUI=10100 segmento=3 | real=ar (on_connected) -> predicho=bebop (confianza=0.68)
+  Feature       | valor caso | media_real | media_pred
+  mean          | -0.006585 | -0.007099 | -0.008218
+  std           | 256.2 | 105.6 | 494.9
+  var           | 6.565e+04 | 1.467e+04 | 2.728e+05
+  skewness      | -0.001142 | -0.0004121 | 0.0003541
+  kurtosis      | 194.3 | 197.5 | 69.33
+  rms           | 256.2 | 105.6 | 494.9
+  peak_to_peak  | 1.751e+04 | 7517 | 2.038e+04
+  mean_abs      | 33.49 | 19.86 | 91.21
+  max_abs       | 8799 | 3833 | 1.041e+04
+  energy        | 1.313e+12 | 2.933e+11 | 5.455e+12
+  spectral_centroid| 5.46e+06 | 5.526e+06 | 5.51e+06
+  spectral_energy| 1.313e+19 | 2.933e+18 | 5.455e+19

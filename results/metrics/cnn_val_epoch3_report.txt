@@ -1,0 +1,12 @@
+F1-macro: 0.8439
+
+              precision    recall  f1-score   support
+
+          ar       0.69      0.92      0.79        12
+  background       0.86      1.00      0.92         6
+       bebop       0.88      0.54      0.67        13
+     phantom       1.00      1.00      1.00         3
+
+    accuracy                           0.79        34
+   macro avg       0.85      0.86      0.84        34
+weighted avg       0.82      0.79      0.78        34

@@ -1,0 +1,35 @@
+bui,segment_num,drone,mode,path_h,path_l
+0,15,background,background,data\raw\dronerf\DroneRF\Background RF activites\00000H_15.csv,data\raw\dronerf\DroneRF\Background RF activites\RF Data_00000_L1\00000L_15.csv
+10110,18,ar,flying,data\raw\dronerf\DroneRF\AR drone\RF Data_10110_H\10110H_18.csv,data\raw\dronerf\DroneRF\AR drone\RF Data_10110_L\10110L_18.csv
+10010,14,bebop,flying,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10010_H\10010H_14.csv,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10010_L\10010L_14.csv
+10011,3,bebop,flying_video,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10011_H\10011H_3.csv,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10011_L\10011L_3.csv
+10000,9,bebop,on_connected,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10000_H\10000H_9.csv,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10000_L\10000L_9.csv
+10001,10,bebop,hovering,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10001_H\10001H_10.csv,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10001_L\10001L_10.csv
+10110,3,ar,flying,data\raw\dronerf\DroneRF\AR drone\RF Data_10110_H\10110H_3.csv,data\raw\dronerf\DroneRF\AR drone\RF Data_10110_L\10110L_3.csv
+10100,20,ar,on_connected,data\raw\dronerf\DroneRF\AR drone\RF Data_10100_H\10100H_20.csv,data\raw\dronerf\DroneRF\AR drone\RF Data_10100_L\10100L_20.csv
+0,28,background,background,data\raw\dronerf\DroneRF\Background RF activites\FR Data_00000_H2\00000H_28.csv,data\raw\dronerf\DroneRF\Background RF activites\RF Data_00000_L2\00000L_28.csv
+10010,0,bebop,flying,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10010_H\10010H_0.csv,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10010_L\10010L_0.csv
+10011,20,bebop,flying_video,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10011_H\10011H_20.csv,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10011_L\10011L_20.csv
+10111,17,ar,flying_video,data\raw\dronerf\DroneRF\AR drone\RF Data_10111_H\10111H_17.csv,data\raw\dronerf\DroneRF\AR drone\RF Data_10111_L\10111L_17.csv
+10001,6,bebop,hovering,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10001_H\10001H_6.csv,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10001_L\10001L_6.csv
+10101,17,ar,hovering,data\raw\dronerf\DroneRF\AR drone\RF Data_10101_H\10101H_17.csv,data\raw\dronerf\DroneRF\AR drone\RF Data_10101_L\10101L_17.csv
+10001,5,bebop,hovering,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10001_H\10001H_5.csv,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10001_L\10001L_5.csv
+10101,6,ar,hovering,data\raw\dronerf\DroneRF\AR drone\RF Data_10101_H\10101H_6.csv,data\raw\dronerf\DroneRF\AR drone\RF Data_10101_L\10101L_6.csv
+10010,4,bebop,flying,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10010_H\10010H_4.csv,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10010_L\10010L_4.csv
+10101,1,ar,hovering,data\raw\dronerf\DroneRF\AR drone\RF Data_10101_H\10101H_1.csv,data\raw\dronerf\DroneRF\AR drone\RF Data_10101_L\10101L_1.csv
+0,0,background,background,data\raw\dronerf\DroneRF\Background RF activites\00000H_0.csv,data\raw\dronerf\DroneRF\Background RF activites\RF Data_00000_L1\00000L_0.csv
+0,23,background,background,data\raw\dronerf\DroneRF\Background RF activites\FR Data_00000_H2\00000H_23.csv,data\raw\dronerf\DroneRF\Background RF activites\RF Data_00000_L2\00000L_23.csv
+0,35,background,background,data\raw\dronerf\DroneRF\Background RF activites\FR Data_00000_H2\00000H_35.csv,data\raw\dronerf\DroneRF\Background RF activites\RF Data_00000_L2\00000L_35.csv
+10000,11,bebop,on_connected,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10000_H\10000H_11.csv,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10000_L\10000L_11.csv
+10000,5,bebop,on_connected,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10000_H\10000H_5.csv,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10000_L\10000L_5.csv
+11000,1,phantom,on_connected,data\raw\dronerf\DroneRF\Phantom drone\RF Data_11000_H\11000H_1.csv,data\raw\dronerf\DroneRF\Phantom drone\11000L_1.csv
+10100,1,ar,on_connected,data\raw\dronerf\DroneRF\AR drone\RF Data_10100_H\10100H_1.csv,data\raw\dronerf\DroneRF\AR drone\RF Data_10100_L\10100L_1.csv
+0,20,background,background,data\raw\dronerf\DroneRF\Background RF activites\00000H_20.csv,data\raw\dronerf\DroneRF\Background RF activites\RF Data_00000_L1\00000L_20.csv
+11000,15,phantom,on_connected,data\raw\dronerf\DroneRF\Phantom drone\RF Data_11000_H\11000H_15.csv,data\raw\dronerf\DroneRF\Phantom drone\11000L_15.csv
+11000,20,phantom,on_connected,data\raw\dronerf\DroneRF\Phantom drone\RF Data_11000_H\11000H_20.csv,data\raw\dronerf\DroneRF\Phantom drone\11000L_20.csv
+10100,18,ar,on_connected,data\raw\dronerf\DroneRF\AR drone\RF Data_10100_H\10100H_18.csv,data\raw\dronerf\DroneRF\AR drone\RF Data_10100_L\10100L_18.csv
+10011,12,bebop,flying_video,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10011_H\10011H_12.csv,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10011_L\10011L_12.csv
+10111,9,ar,flying_video,data\raw\dronerf\DroneRF\AR drone\RF Data_10111_H\10111H_9.csv,data\raw\dronerf\DroneRF\AR drone\RF Data_10111_L\10111L_9.csv
+10000,18,bebop,on_connected,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10000_H\10000H_18.csv,data\raw\dronerf\DroneRF\Bepop drone\RF Data_10000_L\10000L_18.csv
+10110,19,ar,flying,data\raw\dronerf\DroneRF\AR drone\RF Data_10110_H\10110H_19.csv,data\raw\dronerf\DroneRF\AR drone\RF Data_10110_L\10110L_19.csv
+10111,16,ar,flying_video,data\raw\dronerf\DroneRF\AR drone\RF Data_10111_H\10111H_16.csv,data\raw\dronerf\DroneRF\AR drone\RF Data_10111_L\10111L_16.csv
